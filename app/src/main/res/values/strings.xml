@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayoutExample</string>
+    <string name="send">Send</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="alertDialogMessage">Message \"%1$s\" with subject \"%2$s\" was sent to \"%3$s\".</string>
+    <string name="alertDialogTitle">Message sent!</string>
+</resources>

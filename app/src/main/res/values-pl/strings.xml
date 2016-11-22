@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayoutExample</string>
+    <string name="send">Wyślij</string>
+    <string name="to">Do</string>
+    <string name="subject">Temat</string>
+    <string name="message">Wiadomość</string>
+    <string name="alertDialogMessage">Wiadomość \"%1$s\" o temacie \"%2$s\" została wysłana do \"%3$s\".</string>
+    <string name="alertDialogTitle">Wiadomość wysłana!</string>
+</resources>
