@@ -1,1 +1,1 @@
-# Android Layout Examples
+# GridLayout Example
