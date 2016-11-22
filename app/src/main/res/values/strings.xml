@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListViewExample1</string>
+
+    <string-array name="albums">
+        <item>3 Doors Down - The Better Life</item>
+        <item>Alice Cooper - Trash</item>
+        <item>Black Sabbath - Paranoid</item>
+        <item>Foo Fighters - Echoes, Silence, Patience And Grace</item>
+        <item>Foo Fighters - Wasting Light</item>
+        <item>Foo Fighters - Sonic Highways</item>
+        <item>Foo Fighters - Saint Cecilia EP</item>
+        <item>Ghost BC - Meliora</item>
+        <item>Guns N\' Roses - Appetite For Destruction</item>
+        <item>Nick Cave and The Bad Seeds - Skeleton Tree</item>
+        <item>Nirvana - Bleach</item>
+        <item>Nirvana - Nevermind</item>
+        <item>Nirvana - In Utero</item>
+        <item>The Beach Boys  - Pet Sounds</item>
+        <item>The Beach Boys - Smiley Smile</item>
+    </string-array>
+
+</resources>
