@@ -1,1 +1,1 @@
-# Android Layout Examples
+# LinearLayout Example
