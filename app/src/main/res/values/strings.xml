@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">GridViewExample</string>
+    <string name="cover">Cover</string>
+    <string-array name="the_better_life">
+        <item>Kryptonite</item>
+        <item>Loser</item>
+        <item>Duck And Run</item>
+        <item>Not Enough</item>
+        <item>Be Like That</item>
+        <item>Life Of My Own</item>
+        <item>Better Life</item>
+        <item>Down Poison</item>
+        <item>By My Side</item>
+        <item>Smack</item>
+        <item>So I Need You</item>
+    </string-array>
+    <string-array name="trash">
+        <item>Poison</item>
+        <item>Spark In The Dark</item>
+        <item>House of Fire</item>
+        <item>Why Trust You</item>
+        <item>Only My Heart Talkin\'</item>
+        <item>Bed of Nails</item>
+        <item>This Maniac\'s In Love With You</item>
+        <item>Trash</item>
+        <item>Hell Is Living Without You</item>
+        <item>I\'m Your Gun</item>
+    </string-array>
+    <string-array name="paranoid">
+        <item>War Pigs</item>
+        <item>Paranoid</item>
+        <item>Planet Caravan</item>
+        <item>Iron Man</item>
+        <item>Electric Funeral</item>
+        <item>Hand of Doom</item>
+        <item>Rat Salad</item>
+        <item>Fairies Wear Boots</item>
+    </string-array>
+    <string-array name="echos">
+        <item>The Pretender</item>
+        <item>Let It Die</item>
+        <item>Erase/Replace</item>
+        <item>Long Road To Ruin</item>
+        <item>Come Alive</item>
+        <item>Stranger Things Have Happened</item>
+        <item>Cheer Up, Boys (Your Make Up Is Running)</item>
+        <item>Summer s End</item>
+        <item>Ballad Of The Beaconsfield Miners</item>
+        <item>Statues</item>
+        <item>But, Honestly</item>
+        <item>Home</item>
+    </string-array>
+    <string-array name="wasting">
+        <item>Bridge Burning</item>
+        <item>Rope</item>
+        <item>Dear Rosemary</item>
+        <item>White Limo</item>
+        <item>Arlandria</item>
+        <item>These Days</item>
+        <item>Back and Forth</item>
+        <item>A Matter Of Time</item>
+        <item>Miss The Misery</item>
+        <item>I Should Have Known</item>
+        <item>Walk</item>
+    </string-array>
+    <string-array name="sonic">
+        <item>Something From Nothing</item>
+        <item>The Feast and The Famine</item>
+        <item>Congregation</item>
+        <item>What Did I Do?/God As My Witness</item>
+        <item>Outside</item>
+        <item>In The Clear</item>
+        <item>Subterranean</item>
+        <item>I Am A River</item>
+    </string-array>
+    <string-array name="saint">
+        <item>Saint Cecilia</item>
+        <item>Sean</item>
+        <item>Savior Breath</item>
+        <item>Iron Rooster</item>
+        <item>The Neverending Sigh</item>
+    </string-array>
+    <string-array name="meliora">
+        <item>Spirit</item>
+        <item>From The Pinnacle To The Pit</item>
+        <item>Cirice</item>
+        <item>Spöksonat</item>
+        <item>He Is</item>
+        <item>Mummy Dust</item>
+        <item>Majesty</item>
+        <item>Devil Church</item>
+        <item>Absolution</item>
+        <item>Deus In Absentia</item>
+    </string-array>
+    <string-array name="appetite">
+        <item>Welcome to the Jungle</item>
+        <item>It\'s So Easy</item>
+        <item>Nightrain</item>
+        <item>Out Ta Get Me</item>
+        <item>Mr. Brownstone</item>
+        <item>Paradise City</item>
+        <item>My Michelle</item>
+        <item>Think About You</item>
+        <item>Sweet Child O\' Mine</item>
+        <item>You\'re Crazy</item>
+        <item>Anything Goes</item>
+        <item>Rocket Queen</item>
+    </string-array>
+    <string-array name="skeleton">
+        <item>Jesus Alone</item>
+        <item>Rings of Saturn</item>
+        <item>Girl in Amber</item>
+        <item>Magneto</item>
+        <item>Anthrocene</item>
+        <item>I Need You</item>
+        <item>Distant Sky</item>
+        <item>Skeleton Tree</item>
+    </string-array>
+    <string-array name="bleach">
+        <item>Blew</item>
+        <item>Floyd The Barber</item>
+        <item>About A Girl</item>
+        <item>School</item>
+        <item>Love Buzz</item>
+        <item>Paper Cuts</item>
+        <item>Negative Creep</item>
+        <item>Scoff</item>
+        <item>Swap Meet</item>
+        <item>Mr. Moustache</item>
+        <item>Sifting</item>
+        <item>Big Cheese</item>
+        <item>Downer</item>
+    </string-array>
+    <string-array name="nevermind">
+        <item>Smells Like Teen Spirit</item>
+        <item>In Bloom</item>
+        <item>Come As You Are</item>
+        <item>Breed</item>
+        <item>Lithium</item>
+        <item>Polly</item>
+        <item>Territorial Pissings</item>
+        <item>Drain You</item>
+        <item>Lounge Act</item>
+        <item>Stay Away</item>
+        <item>On A Plain</item>
+        <item>Something In The Way</item>
+    </string-array>
+    <string-array name="utero">
+        <item>Serve the Servants</item>
+        <item>Scentless Apprentice</item>
+        <item>Heart Shaped Box</item>
+        <item>Rape Me</item>
+        <item>Frances Farmer Will Have Her Revenge on Seattle</item>
+        <item>Dumb</item>
+        <item>Very Ape</item>
+        <item>Milk It</item>
+        <item>Pennyroyal Tea</item>
+        <item>Radio Friendly Unit Shifter</item>
+        <item>Tourette\'s</item>
+        <item>All Apologies</item>
+    </string-array>
+    <string-array name="pet">
+        <item>Pet Sounds</item>
+        <item>Good Vibrations</item>
+        <item>God Only Knows Tony Asher</item>
+        <item>Caroline, No Horse</item>
+        <item>Beach Boys Live With Support</item>
+        <item>In Mono With Echo</item>
+        <item>I Know There\'s An Answer</item>
+    </string-array>
+    <string-array name="smiley">
+        <item>Heroes And Villains</item>
+        <item>Vegetables</item>
+        <item>Fall Breaks Back To Winter (W. Woodpecker Symphony)</item>
+        <item>She\'s Goin\' Bald</item>
+        <item>Little Pad</item>
+        <item>Good Vibrations</item>
+        <item>With Me Tonight</item>
+        <item>Wind Chimes</item>
+        <item>Getting Hungry</item>
+        <item>Wonderful</item>
+        <item>Whistle In</item>
+    </string-array>
+</resources>
